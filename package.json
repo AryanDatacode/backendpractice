@@ -7,10 +7,14 @@
     "client": "cd ui && npm run dev"
   },
   "devDependencies": {
-    "concurrently": "^9.0.1"
+    "autoprefixer": "^10.4.20",
+    "concurrently": "^9.0.1",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.15"
   },
   "dependencies": {
     "@shadcn/ui": "^0.0.4",
+    "lucide-react": "^0.460.0",
     "nodemon": "^3.1.4"
   }
 }
